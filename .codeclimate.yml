@@ -26,4 +26,3 @@ ratings:
 exclude_paths:
 - "Documentation/"
 - "Installation/DOCU"
-- "Tools/"
